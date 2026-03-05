@@ -64,7 +64,7 @@ def main():
 
 
 if __name__ == "__main__":
-    # 安装依赖的命令（如果未安装）
+    # 安装依赖的命令（如果未安装3）
     # pip install akshare pandas sqlalchemy pymysql
 
     # 运行主程序
